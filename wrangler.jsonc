@@ -99,4 +99,12 @@
   // - CF_ACCOUNT_ID: Your Cloudflare account ID (for R2 endpoint URL)
 // fix cloudflare deployment bug
 
+// 
+
+  "vars": {
+    "CF_ACCESS_TEAM_DOMAIN": "vclaw2026.cloudflareaccess.com",
+    "CF_ACCESS_AUD": "d0cdea9c1e21d29b707d2f430c9a3b4cf2689bc661a8c3d8fed25b37e15dbe67",
+    "OPENAI_BASE_URL": "https://openrouter.ai/api/v1"
+  }
+}
 }
